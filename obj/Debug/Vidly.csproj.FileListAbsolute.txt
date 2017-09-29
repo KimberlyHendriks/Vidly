@@ -78,3 +78,6 @@ C:\Users\kimbe\source\repos\Vidly\Vidly\bin\Vidly.dll
 C:\Users\kimbe\source\repos\Vidly\Vidly\bin\Vidly.pdb
 C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateIdentityModelAndMovie.resources
 C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateGenres.resources
+C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.RepairMembershipTypes.resources
+C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeNameAfterRepair.resources
+C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateCustomer.resources
