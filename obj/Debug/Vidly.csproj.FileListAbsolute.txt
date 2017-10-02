@@ -81,3 +81,5 @@ C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateGenres.
 C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.RepairMembershipTypes.resources
 C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeNameAfterRepair.resources
 C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateCustomer.resources
+C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeModelMovieAndGenreForValidationPurposes.resources
+C:\Users\kimbe\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMovies.resources

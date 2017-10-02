@@ -244,6 +244,14 @@
     <Compile Include="Migrations\201709291726072_PopulateCustomer.Designer.cs">
       <DependentUpon>201709291726072_PopulateCustomer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201710021156253_ChangeModelMovieAndGenreForValidationPurposes.cs" />
+    <Compile Include="Migrations\201710021156253_ChangeModelMovieAndGenreForValidationPurposes.Designer.cs">
+      <DependentUpon>201710021156253_ChangeModelMovieAndGenreForValidationPurposes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710021202082_PopulateMovies.cs" />
+    <Compile Include="Migrations\201710021202082_PopulateMovies.Designer.cs">
+      <DependentUpon>201710021202082_PopulateMovies.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -375,6 +383,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201709291726072_PopulateCustomer.resx">
       <DependentUpon>201709291726072_PopulateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710021156253_ChangeModelMovieAndGenreForValidationPurposes.resx">
+      <DependentUpon>201710021156253_ChangeModelMovieAndGenreForValidationPurposes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710021202082_PopulateMovies.resx">
+      <DependentUpon>201710021202082_PopulateMovies.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
